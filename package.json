@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Kartagia/arm5express/issues"
   },
-  "homepage": "https://github.com/Kartagia/arm5express#readme"
+  "homepage": "https://github.com/Kartagia/arm5express#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
