@@ -1,0 +1,24 @@
+{
+  "name": "arm5express",
+  "version": "1.0.0",
+  "description": "Ars Magica campaing aid express publishing implementation.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha --harmony"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kartagia/arm5express.git"
+  },
+  "keywords": [
+    "arm5",
+    "express",
+    "rpg-aid"
+  ],
+  "author": "Antti Kautiainen <antti@kautiainen.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kartagia/arm5express/issues"
+  },
+  "homepage": "https://github.com/Kartagia/arm5express#readme"
+}

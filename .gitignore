@@ -1,0 +1,13 @@
+
+## VSCODE
+.vscode
+
+## Environment, but examples
+*.env
+!*.example.env
+
+## Node.js
+node_modules
+
+## Submodules
+support

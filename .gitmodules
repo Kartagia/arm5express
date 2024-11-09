@@ -1,0 +1,6 @@
+[submodule "arm5-guidelines-js"]
+	path = arm5-guidelines-js
+	url = https://github.com/Kartagia/arm5-guidelines-js
+[submodule "forminput"]
+	path = forminput
+	url = https://github.com/Kartagia/forminput
